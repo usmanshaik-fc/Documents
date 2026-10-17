@@ -1,26 +1,36 @@
-# 📚 Documents — Tech Learning Hub
+# Mahi Lab — Technology Learning Hub
 
-Welcome to your one-stop library for tech learning! 🚀 Explore educational PDFs, notes, and study materials covering **Operating Systems, Linux, Programming Languages, DevOps, Cloud Computing, Cybersecurity, and more.**
+Mahi Lab is a technology learning platform dedicated to making technical education accessible through structured documentation, study materials, tutorials, and practical learning resources.
 
-### 🎯 Our Mission
-Make technology simple, accessible, and easy to learn for everyone. Learn new concepts, build practical skills, and grow your tech career — one document at a time.
+Explore resources designed to help students, developers, and IT professionals strengthen their technical knowledge and build practical skills.
 
-### 📂 What You'll Find
-- 💻 Operating Systems & Linux
-- 🐍 Python & Programming Languages
-- ⚙️ DevOps & Cloud Computing
-- 🔐 Cybersecurity & Networking
-- ☁️ System Administration & IT Fundamentals
-- 📖 Technical Notes, Guides & Learning Resources
+## Our Mission
 
-### 🌶️ Stay Connected with Server Sambar!
-Love technology? Follow **Server Sambar** for easy-to-understand Telugu tech content, the latest technology news, AI updates, coding tips, DevOps tutorials, and much more!
+To simplify technology education by providing accessible, organized, and reliable learning resources that support continuous learning and professional growth.
 
-📱 **Follow us, learn with us, and grow with us!**
+## Learning Resources
 
-- 📸 Instagram: [Server Sambar](https://www.instagram.com/)
-- 💻 GitHub: Explore, learn, and contribute to tech education.
+- **Operating Systems & Linux** — Fundamentals, commands, administration, and troubleshooting.
+- **Programming Languages** — Python and other programming concepts.
+- **DevOps & Cloud Computing** — CI/CD, Docker, Kubernetes, cloud platforms, and automation.
+- **Cybersecurity & Networking** — Security fundamentals, networking concepts, and best practices.
+- **System Administration** — Infrastructure management, monitoring, and technical support.
+- **Technical Documentation** — Study notes, reference guides, tutorials, and educational PDFs.
 
-⭐ If you find this repository useful, don't forget to **star this repo** and share it with fellow learners!
+## Who Is This For?
 
-**Server Sambar — Technology with a Telugu Twist! 🌶️💻**
+Mahi Lab is designed for students, aspiring developers, DevOps engineers, system administrators, and technology enthusiasts who want to develop their skills and expand their technical knowledge.
+
+## Connect With Us
+
+- **Instagram:** [Mahi Lab](https://www.instagram.com/)
+- **GitHub:** Explore repositories, access learning resources, and contribute to technology education.
+
+## Support the Project
+
+If you find these resources useful, consider starring the repository and sharing it with others who may benefit from them.
+
+---
+
+**Mahi Lab**  
+*Learn. Build. Innovate.*
